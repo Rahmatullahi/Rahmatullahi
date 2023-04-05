@@ -5,5 +5,4 @@
 - 💬 Ask me about anything related to Data Analytics and Science
 - 📫 How to reach me: connect with me on linkedin 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to sing and go on vacations
-
+- ⚡ Fun fact: I love to sing and read self development books
