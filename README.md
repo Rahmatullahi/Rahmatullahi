@@ -39,7 +39,7 @@ I enjoy turning complex data into meaningful insights, especially in **environme
 ---
 
 ## 🌱 Current Focus
-- Data Science with Python
+- Goegraphic Data Science with Python
 - Machine Learning & GeoAI
 - Spatial statistics and environmental analytics
 - Building reproducible, well-documented data projects
